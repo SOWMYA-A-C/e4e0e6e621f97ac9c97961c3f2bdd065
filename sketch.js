@@ -79,19 +79,7 @@ function draw() {
 
   groundObject.display();
   launcherObject.display();
-  detectollision(stoneObj,mango1);
-  detectollision(stoneObj,mango2);
-  detectollision(stoneObj,mango3);
-  detectollision(stoneObj,mango4);
-  detectollision(stoneObj,mango5);
-  detectollision(stoneObj,mango6);
-  detectollision(stoneObj,mango7);
-  detectollision(stoneObj,mango8);
-  detectollision(stoneObj,mango9);
-  detectollision(stoneObj,mango10);
-  detectollision(stoneObj,mango11);
-  detectollision(stoneObj,mango12);
-}
+
 
 function mouseDragged()
 {
