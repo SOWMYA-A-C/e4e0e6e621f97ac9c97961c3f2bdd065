@@ -80,7 +80,7 @@ function draw() {
   groundObject.display();
   launcherObject.display();
 
-
+}
 function mouseDragged()
 {
 	Matter.Body.setPosition(stoneObj.body, {x:mouseX, y:mouseY}) 
